@@ -1,1 +1,1 @@
-# E-commerce-Website-Bootstrap-
+#Mini bootstrap project
